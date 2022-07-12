@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+} 
+:root {
+    --main-bg-color: #2874f0;
+}
+nav{
+    display: flex;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+
+    width: 75px;
+    padding: 0 20px;
+}
+
+nav ul{   
+    height: 8vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+nav ul li{
+    padding: 0 14px;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover
+{
+    color: rgb(200, 200, 230);
+    font-weight: bolder;
+}
+header {
+    background-color: var(--main-bg-color);
+    font-family: 'Lato', sans-serif;
+    /* font-family: 'Edu SA Beginner', cursive; */
+    color: white;
+}
+.container{
+    min-height: calc(100vh - 8vh - 12vh);
+}
+footer {
+    height: 12vh;
+    background-color: var(--main-bg-color);
+    color: white;
+    font-family: 'Edu SA Beginner', cursive;
+}
