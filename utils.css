@@ -1,5 +1,16 @@
-.text-align-centre {
+.flex-align-centre {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.my-2{
+    margin: 26px 0;
+}
+.text-align-centre{
+    text-align: center;
+}
+
+.my-1{
+    padding: 3px 0;
 }
