@@ -22,17 +22,276 @@
                 <li><a href="about.html">About</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
-            <div class="searchbar">
-                <input type="text" name="" id="">
+            <div class="search">
+                <input type="text" class="searchbar" placeholder="Search for Products, brands and more...">
+                <button class="btn"><a href="www.search.com">Search</a></button>
             </div>
         </nav>
     </header>
     <main>
         <div class="container">
-           
+            <div class="slider">
+                <img src="https://source.unsplash.com/1600x500/?shopping, ecommerce, laptops, mobiles" alt=""
+                    width="1400">
+            </div>
+            <div class="card">
+                <h2 class="my-2">Join the Cricket Fun!</h2>
+                <div class="cards">
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">Join the Cricket Fun!</h2>
+                <div class="cards">
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">Join the Cricket Fun!</h2>
+                <div class="cards">
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                    <div class="card-items">
+                        <img src="https://source.unsplash.com/160x160/?cricket, stumps, ball, bat" alt="">
+                        <div class="lines">
+                            <p class="text-align-centre my-1">Cricket Bats</p>
+                            <P class="text-align-centre my-1">Min 20% off</P>
+                            <p class="text-align-centre my-1">Grab Now!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </main>
-    <footer class="text-align-centre">
+    <footer class="flex-align-centre">
         <p>Copyright &copy; MyShopCart</p>
     </footer>
 </body>
