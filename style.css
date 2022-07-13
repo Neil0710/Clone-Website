@@ -26,6 +26,7 @@ nav {
 
     width: 75px;
     padding: 0 20px;
+    max-width: 5px auto auto auto;
 }
 
 nav ul {
@@ -102,6 +103,7 @@ header {
     justify-content: center;
     width: 80vw;
     margin: 12px auto;
+    overflow: hidden;
 }
 
 .container {
@@ -120,14 +122,16 @@ header {
     background-color: aliceblue;
     max-width: 90vw;
     box-shadow: 4px 4px 4px 0 rgb(0 0 0 / 23%);
-    margin: 10px auto;
+    margin: 50px auto;
     padding: 15px;
     
 }
 
 .cards {
     display: flex;
-    flex-direction: row;
+    align-items: center;
+    overflow-y: scroll;
+    /* justify-content: center; */
 }
 
 .card-items {
@@ -137,7 +141,7 @@ header {
     justify-content: center;
     width: 10vw;
     box-shadow: 4px 4px 4px 0 rgb(0 0 0 / 23%);
-    margin: 0 10px;
+    margin: 5px 10px;
 }
 
 footer {
