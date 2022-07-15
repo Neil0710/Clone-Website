@@ -108,7 +108,7 @@ header {
 
 .container {
     min-height: calc(100vh - 8vh - 12vh);
-    background-color: ivory;
+    
 }
 
 .card h2 {
@@ -150,4 +150,3 @@ footer {
     color: white;
     font-family: 'Edu SA Beginner', cursive;
 }
-
